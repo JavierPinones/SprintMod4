@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b840713-dacf-4f4f-88a5-44d11b042adb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprintFinalModulo4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/Accidente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/Administrativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/Capacitacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/Contenedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/IAsesoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/Profesional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/Revision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprintFinal/VisitaEnTerreno.java" afterDir="false" />
-    </list>
+    <list default="true" id="7b840713-dacf-4f4f-88a5-44d11b042adb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +34,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/pinon/Desktop/Modulo 4/Sprint_final/sprintFinalModulo4/src/sprintFinal",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "/Users/rociovenegas/Desktop/bootcamp _Java/SprintMod4",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
