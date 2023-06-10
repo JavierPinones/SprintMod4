@@ -2,7 +2,7 @@ Sprint Módulo 4
 Grupo 4
 
 Matías Pérez https://github.com/matiasperez1534/SprintMod4
-José Ponce
+José Ponce    https://github.com/jmponcem/SprintMod4.git
 Javier Piñones
 Rocío Venegas https://github.com/RoVenegasV/Sprintmod4.git
 
